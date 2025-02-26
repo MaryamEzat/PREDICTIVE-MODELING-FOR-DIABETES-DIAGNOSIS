@@ -27,5 +27,6 @@ The models are evaluated based on **accuracy, precision, recall, F1-score**, and
 ✔ **ROC Curve Analysis**: Visualized model performance using **Receiver Operating Characteristic (ROC) curves**.  
 ✔ **Feature Importance**: Identified key health attributes influencing diabetes prediction.  
 
+## **Conclusion**
 - **Random Forest outperformed Logistic Regression**, demonstrating the benefits of ensemble learning in handling complex data relationships.
 - The project provides insights into the **importance of health attributes** in predicting diabetes risk and supports the use of machine learning for **early disease detection**.
